@@ -16,3 +16,4 @@ You would probably like a list of top MySQL blogs and this is the right place!
 | MysqlOnArm          | Krunal-Bauskar       |[https://mysqlonarm.github.io/](https://mysqlonarm.github.io/)                                |[@krunal-bauskar](https://www.linkedin.com/in/krunal-bauskar-b7a0b66/)  |
 | Oracle MySQL Blog   |                      |[https://blogs.oracle.com/mysql/](https://blogs.oracle.com/mysql/)                            |                                                                        |
 | Vettabase           | Federico Razzoli     |[https://vettabase.com/blog/](https://vettabase.com/blog/)                                    |[@federicorazzoli](https://www.linkedin.com/in/federicorazzoli/)        |
+| Wagner Bianchi      | Wagner Bianchi       |[http://wagnerbianchi.com/blog/](http://wagnerbianchi.com/blog/)                              |[@wagnerbianchi](https://www.linkedin.com/in/wagnerbianchi/)            |
