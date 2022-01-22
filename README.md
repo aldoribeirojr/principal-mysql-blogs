@@ -17,3 +17,4 @@ You would probably like a list of top MySQL blogs and this is the right place!
 | Oracle MySQL Blog   |                      |[https://blogs.oracle.com/mysql/](https://blogs.oracle.com/mysql/)                            |                                                                        |
 | Vettabase           | Federico Razzoli     |[https://vettabase.com/blog/](https://vettabase.com/blog/)                                    |[@federicorazzoli](https://www.linkedin.com/in/federicorazzoli/)        |
 | Wagner Bianchi      | Wagner Bianchi       |[http://wagnerbianchi.com/blog/](http://wagnerbianchi.com/blog/)                              |[@wagnerbianchi](https://www.linkedin.com/in/wagnerbianchi/)            |
+| Planet MySQL        | Wagner Bianchi       |[https://planet.mysql.com/](https://planet.mysql.com/)                                        |                                                                        |
