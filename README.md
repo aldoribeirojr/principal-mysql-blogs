@@ -15,3 +15,4 @@ You would probably like a list of top MySQL blogs and this is the right place!
 | Marcelo Altmann     | Marcelo Altmann      |[https://blog.marceloaltmann.com/](https://blog.marceloaltmann.com/)                          |[@marceloaltmann](https://www.linkedin.com/in/marceloaltmann/)          |
 | MysqlOnArm          | Krunal-Bauskar       |[https://mysqlonarm.github.io/](https://mysqlonarm.github.io/)                                |[@krunal-bauskar](https://www.linkedin.com/in/krunal-bauskar-b7a0b66/)  |
 | Oracle MySQL Blog   |                      |[https://blogs.oracle.com/mysql/](https://blogs.oracle.com/mysql/)                            |                                                                        |
+| Vettabase           | Federico Razzoli     |[https://vettabase.com/blog/](https://vettabase.com/blog/)                                    |[@federicorazzoli](https://www.linkedin.com/in/federicorazzoli/)        |
