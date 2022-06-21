@@ -19,3 +19,4 @@ You would probably like a list of top MySQL blogs and this is the right place!
 | Wagner Bianchi      | Wagner Bianchi       |[http://wagnerbianchi.com/blog/](http://wagnerbianchi.com/blog/)                              |[@wagnerbianchi](https://www.linkedin.com/in/wagnerbianchi/)            |
 | Planet MySQL        |                      |[https://planet.mysql.com/](https://planet.mysql.com/)                                        |                                                                        |
 | Jcole               | Jeremy Cole          |[https://blog.jcole.us/category/mysql/](https://blog.jcole.us/category/mysql/)                |[@jeremycole](https://www.linkedin.com/in/jeremycole/)                  |
+| Mydbops             |                      |[https://mydbops.wordpress.com/](https://mydbops.wordpress.com/)                              |[@MydbopsOfficial](https://www.linkedin.com/company/mydbops/)           |
